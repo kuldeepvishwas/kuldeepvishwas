@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kuldeepvishwas1" target="blank"><img src="https://img.shields.io/twitter/follow/kuldeepvishwas1?logo=twitter&style=for-the-badge" alt="kuldeepvishwas1" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA**
-
-- 👨‍💻 All of my projects are available at [https://github.com/kuldeepvishwas/Portfolio/blob/master/KV%20portfolio.pdf](https://github.com/kuldeepvishwas/Portfolio/blob/master/KV%20portfolio.pdf)
+- 🌱 I’m currently learning **Flask**
 
 - 📫 How to reach me **kuldeepvishwas590@gmail.com**
 
